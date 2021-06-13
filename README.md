@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nguyen Ngoc Hung, a master (Ms.c) student at College Computer science and Electronics Engineering of Hanyang University, Republic of Korea
+- 👀 I’m interested in mathematics and algorithms.
+- 🌱 I’m currently learning deep learning in 6G.
+- I had ever been a senior software engineer at LG electronics
